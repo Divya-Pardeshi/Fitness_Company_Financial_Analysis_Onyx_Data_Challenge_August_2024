@@ -111,6 +111,10 @@ To view the interactive report, please click the link below:
 - DAX (Data Analysis Expressions)
 - Data Visualization Techniques
 
+## Achievements
+This project secured a **Top 5 Finalist position** in the **Onyx Data August 2024 Challenge**.  
+You can view the certificate of achievement [here](https://github.com/Divya-Pardeshi/Fitness_Company_Financial_Analysis_Onyx_Data_Challenge_August_2024/blob/main/Images/Top%205%20Divya%20Pardeshi.pdf).
+
 ## Acknowledgements
 
 Special thanks to Onyx Data and ZoomCharts for organizing this challenge and providing a platform to showcase data visualization skills.
