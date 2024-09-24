@@ -1,6 +1,6 @@
 # Fitness Company Financial Analysis - Onyx Data Challenge August 2024
 
-This Power BI project secured a top 5 finalist position in the Onyx Data and ZoomCharts Challenge for August 2024. It provides an in-depth analysis of the financial performance of a sporting goods manufacturer, focusing on key financial metrics such as revenue, expenses, and profitability ratios.
+This Power BI project secured a [Top 5 Finalist position](https://github.com/user-attachments/files/17114258/Top.5.Divya.Pardeshi.pdf) in the Onyx Data and ZoomCharts Challenge for August 2024. It provides an in-depth analysis of the financial performance of a sporting goods manufacturer, focusing on key financial metrics such as revenue, expenses, and profitability ratios.
 
 ## Project Overview
 
